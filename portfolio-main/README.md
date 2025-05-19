@@ -1,4 +1,3 @@
-# dtkfolio ⚡️ [![GitHub](https://img.shields.io/github/license/kusal-tharindu/portfolio?color=blue)](https://github.com/kusal-tharindu/portfolio/blob/main/LICENSE) ![GitHub stars](https://img.shields.io/github/stars/kusal-tharindu/portfolio) ![GitHub forks](https://img.shields.io/github/forks/kusal-tharindu/portfolio) 
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
@@ -19,7 +18,6 @@ In this project I created personal portfolio website using HTML CSS and JavaScri
 ⚡️ Your can receive the contact form data on your google sheets\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://kusal-tharindu.github.io/portfolio/)**
 
 ---
 
@@ -54,7 +52,6 @@ From your command line, first clone DTKfolio:
 - Method-01
 ```bash
 # Clone the repository
-$ git clone https://github.com/kusal-tharindu/DTKfolio
 
 ```
 - Method-02
@@ -349,12 +346,10 @@ I highly recommend to use [Cloudflare pages](https://pages.cloudflare.com/) beca
 ---
 ## Authors
 
-- **`Kusal Tharindu`** - [https://github.com/kusal-tharindu](https://github.com/kusal-tharindu)
 ---
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/kusal-tharindu/portfolio/blob/main/LICENSE) file for details.
 
 ---
 ## Acknowledgments 🎁
