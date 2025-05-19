@@ -1,3 +1,4 @@
+# dtkfolio ⚡️ [![GitHub](https://img.shields.io/github/license/debasish-lenka/portfolio?color=blue)](https://github.com/debasish-lenka/portfolio/blob/main/LICENSE) ![GitHub stars](https://img.shields.io/github/stars/debasish-lenka/portfolio) ![GitHub forks](https://img.shields.io/github/forks/debasish-lenka/portfolio) 
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
@@ -18,6 +19,7 @@ In this project I created personal portfolio website using HTML CSS and JavaScri
 ⚡️ Your can receive the contact form data on your google sheets\
 ⚡️ Well organized documentation
 
+To view the demo: **[click here](https://debasish-lenka.github.io/portfolio/)**
 
 ---
 
@@ -52,6 +54,7 @@ From your command line, first clone DTKfolio:
 - Method-01
 ```bash
 # Clone the repository
+$ git clone https://github.com/debasish-lenka/DTKfolio
 
 ```
 - Method-02
@@ -346,10 +349,12 @@ I highly recommend to use [Cloudflare pages](https://pages.cloudflare.com/) beca
 ---
 ## Authors
 
+- **`Kusal Tharindu`** - [https://github.com/debasish-lenka](https://github.com/debasish-lenka)
 ---
 
 ## License 📄
 
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/debasish-lenka/portfolio/blob/main/LICENSE) file for details.
 
 ---
 ## Acknowledgments 🎁
